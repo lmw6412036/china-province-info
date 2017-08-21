@@ -1,0 +1,24 @@
+{
+    "name": "china-province-info",
+    "version": "1.0.21",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lmw6412036/china-province-info.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/lmw6412036/china-province-info/issues"
+    },
+    "homepage": "https://github.com/lmw6412036/china-province-info#readme",
+    "devDependencies": {
+        "auto-version": "^1.0.11",
+        "axios": "^0.16.2",
+        "hprose": "^2.0.45"
+    }
+}
